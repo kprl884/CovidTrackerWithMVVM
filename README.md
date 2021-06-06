@@ -1,6 +1,7 @@
 # CovidTrackerWithMVVM
 Covid Tracker App with modern MVVP Architecture
 
+![Ekran Görüntüsü (388)](https://user-images.githubusercontent.com/62509948/120916070-0546c580-c6b0-11eb-9651-572b92eec7f8.png)
 
 
 * This project is built on the principle of single activity. Compatible with MVVM architecture.
