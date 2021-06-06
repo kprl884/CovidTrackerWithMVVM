@@ -8,7 +8,8 @@ Covid Tracker App with modern MVVP Architecture
 * In this project, data was taken from "https://covidtracking.com/api/v1/" api with retrofit. Example retrofit service and use on viewModel are as in the image.
 ![Ekran Görüntüsü (401)](https://user-images.githubusercontent.com/62509948/120916118-5787e680-c6b0-11eb-9610-1bc6a4284195.png)
 ![Ekran Görüntüsü (403)](https://user-images.githubusercontent.com/62509948/120916205-e694fe80-c6b0-11eb-9750-7c052def9d47.png)
-
+* Spark view  and SparkAdapter() used for this projects chart - com.robinhood.spark.SparkView
+* 
 
 
 Some of the libraries used are:
